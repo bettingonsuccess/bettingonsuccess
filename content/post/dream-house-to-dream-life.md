@@ -1,7 +1,7 @@
 ---
 title: "Dream House to Dream Life"
 date: 2018-01-16T00:58:03-06:00
-draft: true
+draft: false
 image: "/img/dreamhouse.jpg"
 ---
 
