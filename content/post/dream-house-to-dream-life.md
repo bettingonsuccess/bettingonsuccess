@@ -3,9 +3,15 @@ title: Dream House to Dream Life
 date: 2018-01-16 00:58:03 -0600
 image: "/img/dreamhouse.jpg"
 comments: true
-tags: []
-categories: []
-description: ''
+tags:
+- moving
+- financial independence
+- downsizing
+- FI
+categories:
+- update
+description: Downsizing our house and our stress in the process. Bringing us closer
+  to FI
 
 ---
 What would you rather have? Your dream house complete with an indoor pool or your dream life full of time, experiences, and having enough money to travel? For me I recently came to a cross-roads where we (wife and I) had to answer that exact question.
