@@ -1,11 +1,9 @@
 +++
 date = "2018-01-16T00:33:00-06:00"
-draft = false
 title = "About"
 type = "about"
 
 +++
-
 Mr. BoS is currently a full stack developer working in the 3D printing space.
 
 
