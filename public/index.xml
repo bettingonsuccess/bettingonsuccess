@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Betting On Success</title>
+    <link>http://www.bettingonsuccess.com/</link>
+    <description>Recent content on Betting On Success</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Tue, 16 Jan 2018 00:33:00 -0600</lastBuildDate>
+    
+	<atom:link href="http://www.bettingonsuccess.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.bettingonsuccess.com/about/</link>
+      <pubDate>Tue, 16 Jan 2018 00:33:00 -0600</pubDate>
+      
+      <guid>http://www.bettingonsuccess.com/about/</guid>
+      <description>Mr. BoS is currently a full stack developer working in the 3D printing space.
+Mr. BoS enjoys biking, water skiing, traveling, learning foreign languages and Wing Chung martial arts. He is an active member in the FIRE (Financial Independence / Retire Early) community. He has set his FIRE date to be his 30th birthday in the year 2021. Mr. BoS moonlights as a professional gambler playing poker. He uses is professional gambling and investing knowledge to help others take calculated risks to acheive financial indepence.</description>
+    </item>
+    
+  </channel>
+</rss>
