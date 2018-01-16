@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JeffSloyer.io</title>
+    <link>http://www.jeffsloyer.io/</link>
+    <description>Recent content on JeffSloyer.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 12 Jan 2016 10:09:20 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.jeffsloyer.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking Engagements</title>
+      <link>http://www.jeffsloyer.io/speaking/</link>
+      <pubDate>Tue, 12 Jan 2016 10:09:20 -0500</pubDate>
+      
+      <guid>http://www.jeffsloyer.io/speaking/</guid>
+      <description> Past Events  All Things Open 2017  September 2017 Raleigh, NC, USA  Box Works  October 2015 San Francisco, CA, USA  Kranky Geek 2015  September 11, 2015 San Francisco, CA, USA  All Things Open 2015  September 2015 Raleigh, NC, USA  Twilio Signal 2015 - Keynote  May 18, 2015 San Francisco, CA, USA  Node Summit 2015  February 10, 2015 San Francisco, CA, USA   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.jeffsloyer.io/about/</link>
+      <pubDate>Mon, 04 Jan 2016 13:14:32 -0500</pubDate>
+      
+      <guid>http://www.jeffsloyer.io/about/</guid>
+      <description>Jeff Sloyer is currently the core dev lead for IBM Cloud Containers Service. He currently leads multiple squads of developers that builds IBM&amp;rsquo;s managed Kubernetes service.
+Jeff&amp;rsquo;s previous role at IBM was a Developer Advocate. He promoted IBM’s Platform as a Service (Paas), Bluemix. He’s a Node.JS developer most days, but tinkers in Java and Python. Sloyer is a hacker at heart who loves playing with new tech and cobbling together new demos and projects.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jeffsloyer.io/post/from-dream-house-to-dream-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jeffsloyer.io/post/from-dream-house-to-dream-life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
