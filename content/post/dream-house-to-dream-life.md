@@ -6,7 +6,6 @@ comments: true
 tags: []
 categories: []
 description: ''
-draft: true
 
 ---
 What would you rather have? Your dream house complete with an indoor pool or your dream life full of time, experiences, and having enough money to travel? For me I recently came to a cross-roads where we (wife and I) had to answer that exact question.
