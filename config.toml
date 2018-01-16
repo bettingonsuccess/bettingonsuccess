@@ -1,6 +1,6 @@
 baseurl = "http://www.bettingonsuccess.com/"
 languageCode = "en-us"
-title = "bettingonsuccess.com"
+title = "Betting On Success"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
@@ -8,7 +8,7 @@ copyright = "MIT License"
 publishDir = "docs"
 disqusShortname = "bettingonsuccess-com"
 googleAnalytics = "UA-112532163-1"
-
+image = "home-bg.jpg"
 [author]
   name = "Mr. BoS"
 

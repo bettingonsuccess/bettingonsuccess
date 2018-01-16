@@ -3,72 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.jeffsloyer.io/speaking/</loc>
-    <lastmod>2016-01-12T10:09:20-05:00</lastmod>
+    <loc>http://www.bettingonsuccess.com/about/</loc>
+    <lastmod>2018-01-16T00:33:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jeffsloyer.io/about/</loc>
-    <lastmod>2016-01-04T13:14:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/post/from-dream-house-to-dream-life/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/categories/</loc>
+    <loc>http://www.bettingonsuccess.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.jeffsloyer.io/tags/development/</loc>
+    <loc>http://www.bettingonsuccess.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.jeffsloyer.io/categories/development/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/tags/go/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/categories/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/</loc>
-    <lastmod>2016-01-12T10:09:20-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/post/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/tags/templates/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jeffsloyer.io/tags/themes/</loc>
+    <loc>http://www.bettingonsuccess.com/</loc>
+    <lastmod>2018-01-16T00:33:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,43 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JeffSloyer.io</title>
-    <link>http://www.jeffsloyer.io/</link>
-    <description>Recent content on JeffSloyer.io</description>
+    <title>bettingonsuccess.com</title>
+    <link>http://www.bettingonsuccess.com/</link>
+    <description>Recent content on bettingonsuccess.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 12 Jan 2016 10:09:20 -0500</lastBuildDate>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Tue, 16 Jan 2018 00:33:00 -0600</lastBuildDate>
     
-	<atom:link href="http://www.jeffsloyer.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.bettingonsuccess.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Speaking Engagements</title>
-      <link>http://www.jeffsloyer.io/speaking/</link>
-      <pubDate>Tue, 12 Jan 2016 10:09:20 -0500</pubDate>
-      
-      <guid>http://www.jeffsloyer.io/speaking/</guid>
-      <description> Past Events  All Things Open 2017  September 2017 Raleigh, NC, USA  Box Works  October 2015 San Francisco, CA, USA  Kranky Geek 2015  September 11, 2015 San Francisco, CA, USA  All Things Open 2015  September 2015 Raleigh, NC, USA  Twilio Signal 2015 - Keynote  May 18, 2015 San Francisco, CA, USA  Node Summit 2015  February 10, 2015 San Francisco, CA, USA   </description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>http://www.jeffsloyer.io/about/</link>
-      <pubDate>Mon, 04 Jan 2016 13:14:32 -0500</pubDate>
+      <link>http://www.bettingonsuccess.com/about/</link>
+      <pubDate>Tue, 16 Jan 2018 00:33:00 -0600</pubDate>
       
-      <guid>http://www.jeffsloyer.io/about/</guid>
-      <description>Jeff Sloyer is currently the core dev lead for IBM Cloud Containers Service. He currently leads multiple squads of developers that builds IBM&amp;rsquo;s managed Kubernetes service.
-Jeff&amp;rsquo;s previous role at IBM was a Developer Advocate. He promoted IBM’s Platform as a Service (Paas), Bluemix. He’s a Node.JS developer most days, but tinkers in Java and Python. Sloyer is a hacker at heart who loves playing with new tech and cobbling together new demos and projects.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.jeffsloyer.io/post/from-dream-house-to-dream-life/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.jeffsloyer.io/post/from-dream-house-to-dream-life/</guid>
-      <description></description>
+      <guid>http://www.bettingonsuccess.com/about/</guid>
+      <description>Mr. BoS is currently a full stack developer working in the 3D printing space.
+Mr. BoS enjoys biking, water skiing, traveling, learning foreign languages and Wing Chung martial arts. He is an active member in the FIRE (Financial Independence / Retire Early) community. He has set his FIRE date to be his 30th birthday in the year 2021. Mr. BoS moonlights as a professional gambler playing poker. He uses is professional gambling and investing knowledge to help others take calculated risks to acheive financial indepence.</description>
     </item>
     
   </channel>
