@@ -7,5 +7,6 @@ draft = true
 image = "/img/about-bg.jpg"
 tags = ["go", "golang", "templates", "themes", "development"]
 title = "A dash of obsession"
+type = ""
 
 +++
