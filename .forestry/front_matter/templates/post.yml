@@ -1,4 +1,6 @@
 ---
+pages:
+- going-all-in.md
 hide_body: false
 fields:
 - name: title
