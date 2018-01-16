@@ -1,38 +1,35 @@
 baseurl = "http://www.bettingonsuccess.com/"
-languageCode = "en-us"
-title = "Betting On Success"
 canonifyurls = true
-paginate = 10
-theme = "startbootstrap-clean-blog"
 copyright = "MIT License"
-publishDir = "docs"
 disqusShortname = "bettingonsuccess-com"
 googleAnalytics = "UA-112532163-1"
 image = "home-bg.jpg"
+languageCode = "en-us"
+paginate = 10
+publishDir = "docs"
+theme = "startbootstrap-clean-blog"
+title = "Betting On Success"
 [author]
-  name = "Mr. BoS"
-
+name = "Mr. BoS"
+[[menu.main]]
+name = "Archives"
+url = "/post/"
+weight = -160
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = -180
+[[menu.main]]
+name = "home"
+url = "/"
+weight = -200
 [params]
-  DateForm = "Mon, Jan 2, 2006"
-  Description = "Taking smart risks to acheive financial independence"
-  Author = "Mr. BoS"
-
+author = "Mr. BoS"
+dateform = "Mon, Jan 2, 2006"
+description = "Taking smart risks to achieve financial independence"
 [[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/bettingonsuccess"
+title = "twitter"
+url = "https://twitter.com/bettingonsuccess"
 [[params.social]]
-  title = "github"
-  url = "https://github.com/bettingonsuccess"
-
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = -180
-[[menu.main]]
-  name = "Archives"
-  url = "/post/"
-  weight = -160
+title = "github"
+url = "https://github.com/bettingonsuccess"
