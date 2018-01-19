@@ -10,4 +10,4 @@ title = "Building a Bankroll"
 type = ""
 
 +++
-Even for the aspiring the advantages player, saving money is the first step. The simplest and most boring part is building a bankroll. 
+Every aspiring advantages player must first start out by building a bankroll.
