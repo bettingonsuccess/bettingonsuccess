@@ -26,7 +26,7 @@ weight = -200
 [params]
 author = "Mr. BoS"
 dateform = "Mon, Jan 2, 2006"
-description = "Lesson from a Professional Gambler pursuing Financial Independence"
+description = "Lessons from a Professional Gambler on Financial Independence"
 [[params.social]]
 title = "twitter"
 url = "https://twitter.com/bettingonsuccess"
