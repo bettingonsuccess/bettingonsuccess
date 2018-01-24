@@ -4,6 +4,8 @@ title = "About"
 type = "about"
 
 +++
+"I can always make more money, I cannot make more time" 
+
 I am, currently, a software developer who moonlights as a professional gambler.
 
 I am active in the F.I. (Financial Independence) community. I am pursuing Financial Independence, but more importantly pursuing freedom to live the life I want.
