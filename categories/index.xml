@@ -11,23 +11,5 @@
 	<atom:link href="http://www.bettingonsuccess.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Development</title>
-      <link>http://www.bettingonsuccess.com/categories/development/</link>
-      <pubDate>Tue, 30 Jan 2018 00:29:42 +0000</pubDate>
-      
-      <guid>http://www.bettingonsuccess.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://www.bettingonsuccess.com/categories/golang/</link>
-      <pubDate>Tue, 30 Jan 2018 00:29:42 +0000</pubDate>
-      
-      <guid>http://www.bettingonsuccess.com/categories/golang/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
