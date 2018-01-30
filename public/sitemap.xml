@@ -24,31 +24,7 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/development/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/development/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/go/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/categories/golang/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/golang/</loc>
+    <loc>http://www.bettingonsuccess.com/tags/life/</loc>
     <lastmod>2018-01-30T00:29:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -60,19 +36,13 @@
   </url>
   
   <url>
+    <loc>http://www.bettingonsuccess.com/tags/risk/</loc>
+    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.bettingonsuccess.com/tags/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/templates/</loc>
-    <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/themes/</loc>
     <lastmod>2018-01-30T00:29:42+00:00</lastmod>
     <priority>0</priority>
   </url>
