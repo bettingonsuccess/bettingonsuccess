@@ -3,6 +3,7 @@ categories = []
 comments = true
 date = "2018-01-29T21:44:16-06:00"
 description = "Going All-In on my dreams"
+draft = true
 image = "/uploads/2018/01/30/pexels-photo-372098.jpeg"
 tags = ["life", "risk", "all-in"]
 title = "Going All-In"
