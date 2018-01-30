@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Betting On Success</title>
-    <link>http://www.bettingonsuccess.com/</link>
-    <description>Recent content on Betting On Success</description>
+    <title>Golang on Betting On Success</title>
+    <link>http://www.bettingonsuccess.com/categories/golang/</link>
+    <description>Recent content in Golang on Betting On Success</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT License</copyright>
     <lastBuildDate>Tue, 30 Jan 2018 00:29:42 +0000</lastBuildDate>
     
-	<atom:link href="http://www.bettingonsuccess.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.bettingonsuccess.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <guid>http://www.bettingonsuccess.com/post/going-all-in/</guid>
       <description>Today I took my first step towards achieving my dreams, I quit my job. Quitting my job wasn&amp;rsquo;t easy, especially a lucrative IT job. It was a very demanding position that ultimately was keeping me from being able to fully realize my dreams.
 I was able to drop my job because I have a large amount saved and have multiple income streams producing cash flow that will give me time to ramp up the side hustle without having to worry about paying the bills.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.bettingonsuccess.com/about/</link>
-      <pubDate>Tue, 16 Jan 2018 00:33:00 -0600</pubDate>
-      
-      <guid>http://www.bettingonsuccess.com/about/</guid>
-      <description>&amp;ldquo;I can always make more money, I cannot make more time&amp;rdquo;
-I am, currently, a software developer who moonlights as a professional gambler.
-I am active in the F.I. (Financial Independence) community. I am pursuing Financial Independence, but more importantly pursuing freedom to live the life I want.
-I&amp;rsquo;ve been making money as a professional gambler as long as I&amp;rsquo;ve been a software engineer. I feel that understanding advantage play has given me an edge in every aspect of life including money, time and energy.</description>
     </item>
     
   </channel>
