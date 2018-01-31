@@ -3,7 +3,6 @@ categories = []
 comments = true
 date = "2018-01-30T00:29:42+00:00"
 description = ""
-draft = true
 image = "/uploads/2018/01/30/pexels-photo-372098.jpeg"
 tags = ["life", "risk"]
 title = "Going All-In"
