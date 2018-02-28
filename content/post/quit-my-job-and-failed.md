@@ -5,7 +5,7 @@ date = "2018-02-05T23:05:53+00:00"
 description = ""
 image = "/uploads/2018/02/28/Direction.jpeg"
 tags = ["failure", "career", "FU money"]
-title = "Quit my job and failed"
+title = "Quit My Job and Failed"
 type = ""
 
 +++
