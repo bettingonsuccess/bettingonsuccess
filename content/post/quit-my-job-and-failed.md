@@ -1,11 +1,10 @@
 +++
-categories = ["Development", "golang"]
+categories = []
 comments = true
 date = "2018-02-05T23:05:53+00:00"
 description = ""
-draft = true
-image = "/img/about-bg.jpg"
-tags = ["go", "golang", "templates", "themes", "development"]
+image = "/uploads/2018/02/28/Direction.jpeg"
+tags = ["failure", "career", "FU money"]
 title = "Quit my job and failed"
 type = ""
 
