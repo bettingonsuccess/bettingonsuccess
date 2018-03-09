@@ -1,11 +1,11 @@
 +++
-categories = ["Development", "golang"]
+categories = []
 comments = true
 date = "2018-03-09T10:16:20+00:00"
 description = ""
 draft = true
 image = "/uploads/2018/03/09/fast.jpeg"
-tags = ["go", "golang", "templates", "themes", "development"]
+tags = []
 title = "Going Fast"
 type = ""
 
