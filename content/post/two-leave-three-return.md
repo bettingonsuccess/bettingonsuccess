@@ -7,5 +7,7 @@ draft = true
 image = "/img/about-bg.jpg"
 tags = ["go", "golang", "templates", "themes", "development"]
 title = "Two Leave Three Return"
+type = ""
 
 +++
+IVF journey in Mexico
