@@ -7,6 +7,7 @@ tags:
 - moving
 - financial independence
 - FI
+- 'dream home '
 categories:
 - update
 description: Why we bought a big large "mansion" on our way to FI
