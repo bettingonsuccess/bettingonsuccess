@@ -11,7 +11,6 @@ tags:
 categories:
 - update
 description: Why we bought a big large "mansion" on our way to FI
-draft: true
 
 ---
 Fall 2016 my wife and I bought our forever home. This is a major life goal for us. This is where we want to stay essentially forever. We will travel all around the world but at the end always end up _home_. A large part of why we picked our specific home is that it gives us numerous activities to do once we are Financially Independent and have children.  We could have easily stayed in our fix and flip house longer or bought a home for half the price; This home was worth it. It has a pool for the wife to swim, kids too someday. A river for my father to fish (he lives with us and we love it). A long beautiful bike trail for me to bike on. It has a great Spanish-English immersion school nearby for our future children. The pool room is our workout room as well. It has a fireplace, deck, large backyard, nice neighbors, all in a quite cul-de-sac. The price is also only slightly above average for homes in the large city. So it was also a good deal, especially since it was appraised without the pool room.
