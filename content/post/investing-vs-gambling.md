@@ -3,7 +3,6 @@ categories = ["Investing"]
 comments = true
 date = "2018-04-02T00:00:00-05:00"
 description = "Drawing the line between valuable Investing and risky gambling"
-draft = true
 image = "/uploads/2018/05/22/roulette-roulette-wheel-ball-turn.jpg"
 tags = ["gambling", "investing"]
 title = "Investing vs Gambling"
