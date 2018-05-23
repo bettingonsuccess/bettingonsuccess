@@ -1,11 +1,12 @@
 +++
-categories = ["Development", "golang"]
+categories = ["Definitions", "Investing", "Life"]
 comments = true
-date = "2018-01-16T15:45:49+00:00"
-description = ""
+date = "2001-09-01T09:27:00-05:00"
+description = "Expected Value, not just for pro gamblers"
 draft = true
-image = "/img/about-bg.jpg"
-tags = ["go", "golang", "templates", "themes", "development"]
+image = "/uploads/2018/05/23/EV.jpeg"
+tags = ["EV"]
 title = "Expected Value"
+type = "What is Expected Value?"
 
 +++
