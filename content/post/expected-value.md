@@ -10,3 +10,6 @@ title = "Expected Value"
 type = "What is Expected Value?"
 
 +++
+# Expected Value
+
+This is another important _Definition_ post where we'll define a concept that we can then apply to investing. I will even give examples of how Expected Value or EV can be applied every day.
