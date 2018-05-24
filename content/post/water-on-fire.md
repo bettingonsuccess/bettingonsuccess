@@ -38,4 +38,4 @@ Health. We need to be healthy. Skinny waist, fat wallet. Without Energy and heal
 
 Family. Friends. Community. We all need important people in our lives. One of the most enjoyable parts of FIRE (or should I say WATER now?) path is the vibrant, open, and tight community. We are all so differently politically, geographically, linguistically, etc and yet we all agree we can be free.
 
-So yes I guess this is still a FI/RE blog but hey next time you’re trying to explain what you are doing put some WATER in the conversation.
+So yes I guess this is still a FI/RE blog but hey next time you’re trying to explain what you are doing put some WATER in the conversation. The concepts of WATER are what hold the FIRE up to burn. This is why FIRE + WATER = Greek FIRE or in our case Financial Greek FIRE.
