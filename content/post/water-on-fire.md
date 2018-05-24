@@ -10,3 +10,20 @@ title = "WATER on FIRE"
 type = ""
 
 +++
+# WATER on FI/RE
+
+As we all know in the FIRE community, FI/RE stands for Financial Independence / Retire Early. Well I want to introduce a new acronym WATER. 
+
+— Wealth
+
+— Actualization
+
+— Time
+
+— Energy
+
+— Relationships
+
+## Wealth
+
+## Actualization
