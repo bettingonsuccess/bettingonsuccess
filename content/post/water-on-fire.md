@@ -1,11 +1,12 @@
 +++
-categories = ["Development", "golang"]
+categories = ["Concepts", "FIRE", "WATER"]
 comments = true
 date = "2018-05-23T19:30:45-05:00"
-description = ""
+description = "Introducing the concept of WATER"
 draft = true
 image = "/img/about-bg.jpg"
-tags = ["go", "golang", "templates", "themes", "development"]
+tags = ["FIRE"]
 title = "WATER on FIRE"
+type = ""
 
 +++
