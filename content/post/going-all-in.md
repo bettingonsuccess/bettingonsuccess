@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["Risk", "Entrepreneurship"]
 comments = true
 date = "2018-01-30T00:29:42+00:00"
-description = ""
+description = "Take a leap of faith to pursue my side hustle full-time"
 image = "/uploads/2018/01/30/pexels-photo-372098.jpeg"
 tags = ["life", "risk"]
 title = "Going All-In"
