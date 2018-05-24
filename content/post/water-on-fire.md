@@ -26,4 +26,14 @@ As we all know in the FIRE community, FI/RE stands for Financial Independence / 
 
 ## Wealth
 
-## Actualization
+Money. This is the main focus of the FI community as its our greatest tool that we use to buy the rest.
+
+## (Self)-Actualization
+
+Like Maslows hierarchy of needs or MadFientist’s FI hierarchy. 
+
+## Time
+
+## Energy
+
+## Relationships
