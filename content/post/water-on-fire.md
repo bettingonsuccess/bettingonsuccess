@@ -18,24 +18,20 @@ So what is W.A.T.E.R?
 
 ## Wealth
 
-Money. This is the main focus of the FI community as its a powerful tool that we use to buy the rest. We need roughly 25X our annual spending to be financially independent. Now one doesn't need to reach 25X (Full FI) to start working down the list of WATER.
+Money. This is the main focus of the FI community as its a powerful tool that we use to buy the rest. We need roughly 25X our annual spending to be financially independent. Now one doesn't need to reach 25X (Full FI) to start working down the list of WATER. 
 
 ## Actualization
 
-Action. Execution. Realization. Self-Actualization. Like Maslow's hierarchy of needs or MadFientist’s FI hierarchy. We find what makes us truly happy and we find a place of where we are content and at peace. Quickly as we improve our savings rate, normalize our budget we get freedom, that may include taking a better but lower pay job, going part-time or taking multiple sabbaticals. Actualization is when we've made our dreams real, more importantly we've identified what they are.
+Action. Execution. Realization. Self-Actualization. Like Maslow's hierarchy of needs we need to find what makes us truly happy. We need to find a place of where we are content and at peace. As one increases their savings rate, pay down debt, they quickly gain freedom. This freedom allows one that may include taking a better but lower pay job, going part-time or taking multiple sabbaticals. Eventually achieving full FI will give even more time to actualize one's dreams daily.
 
 ## Time
 
-The most limited and valuable resource. This is what we spend our wealth on, to buy time. Without time we cannot do anything. We need TIME to save money, TIME to actualize our dreams as well as to find self-actualization.
+The most limited and valuable resource. We don't know how much time we have, only a good guess. This is what we spend our wealth on, to buy time. Without time we cannot do anything. We need TIME to save money, TIME to attain self-actualization and TIME to enjoy life.
 
 ## Energy
 
-Health. We need to be healthy. Skinny waist, fat wallet. Without Energy and health the rest don't matter. Once we have more TIME we can work harder on pursuing a healthier lifestyle. We can take time to bike places, even if it takes longer.
+Energy comes from the body. A healthy body has more energy. Health is extremely important. Without health the rest of our resources matter very little. Once we have more TIME we can work harder on pursuing a healthier lifestyle. We can take time to bike places, even if it takes longer.
 
 ## Relationships
 
-Family. Friends. Community. We all need important people in our lives. One of the most enjoyable parts of FIRE journey (or should I say WATER now?) path is the vibrant, open, and tight community. We are all so differently politically, geographically, linguistically, etc and yet we all agree we can be free. 
-
-Mr. Money Mustache pursued and attained FIRE but what inspired me wasn't his frugality and badassity. His _WHY_ is what inspired me. He and Mrs. MMM wanted to be full-time parents. This is also one of my _WHY_'s.
-
-So yes I guess this is still a FI/RE blog but hey next time you’re trying to explain what you are doing put some WATER in the conversation. 
+Family. Friends. Community. We all have important relationships in our lives. Having the wealth, time and energy allows us to deepen our relationships and reach out to make new ones. One of the most enjoyable parts to the FIRE journey is the vibrant, open and welcoming community behind it.
