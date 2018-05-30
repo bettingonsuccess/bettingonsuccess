@@ -44,3 +44,7 @@ Put simply the difference is if the odds are in your favor. This doesn't mean yo
 Now I moonlight as a professional gambling. I take cash and I go to the casino and play games that for 99.99% of players is gambling because the house has a mathematical advantage. Now I find a way to exploit the rules of the game to gain an advantage and make money. The term for this is _advantage player_. It is like comparing someone using credit cards to overspend and pay tons of interest versus someone who uses them strategically to gain valuable points for free flights and hotel stays.
 
 As Brad from the \[ChooseFI\](https://www.choosefi.com) podcast would say it is about "thinking a little bit differently".
+
+I hope this clarifies what the difference is and helps you pursue valuable investments and avoid risking gambles. Often the same activity can be an investment for one and a gamble for another. For instance in the FIRE community we mostly say that buying a house isn't an investment but house hacking is. 
+
+Feel free to tell me about your first investment or business in the comments section below.
