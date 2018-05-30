@@ -34,6 +34,8 @@ Health. We need to be healthy. Skinny waist, fat wallet. Without Energy and heal
 
 ## Relationships
 
-Family. Friends. Community. We all need important people in our lives. One of the most enjoyable parts of FIRE journey (or should I say WATER now?) path is the vibrant, open, and tight community. We are all so differently politically, geographically, linguistically, etc and yet we all agree we can be free.
+Family. Friends. Community. We all need important people in our lives. One of the most enjoyable parts of FIRE journey (or should I say WATER now?) path is the vibrant, open, and tight community. We are all so differently politically, geographically, linguistically, etc and yet we all agree we can be free. 
+
+Mr. Money Mustache pursued and attained FIRE but what inspired me wasn't his frugality and badassity. His _WHY_ is what inspired me. He and Mrs. MMM wanted to be full-time parents. This is also one of my _WHY_'s.
 
 So yes I guess this is still a FI/RE blog but hey next time you’re trying to explain what you are doing put some WATER in the conversation. 
