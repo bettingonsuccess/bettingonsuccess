@@ -2,7 +2,7 @@
 categories = []
 comments = true
 date = "2018-01-16T15:49:17+00:00"
-description = ""
+description = "Double "
 draft = true
 image = "/img/about-bg.jpg"
 tags = []
@@ -10,10 +10,16 @@ title = "Doubling Down"
 type = ""
 
 +++
-A theme that I’m trying to wave throughout this blog is understanding risk. Risk is the act of intentionally interacting with uncertainty. My wife and I took risk in February by going to Mexico to get IVF done. Then in March we returned and have been anxiously waiting to see the results. We got a BFP (Big Fat Positive) as many say!
+Doubling Down is a move in Blackjack where you can double your original bet when you have a good hand so you can make even more money. I feel like this is a fitting post. In 2018, Mr and Mrs. BoS are Doubling Down on a few things and quitting others.
 
-Then March 29th we found out via ultrasound that we weren’t just Pregnant but pregnant with Twins!
+Removing
 
-Yes, with IVF we had 2 embryos transferred but even then the probability of getting pregnant at all is 15% at most so twins are still quite a surprise!
+* Selling Fix and Flip that is currently rented
+* Finishing 2+ year contract job
+* Business Debt
 
-It always feels like our lives always take these big turns. Everything we do it big. We don't just buy a house but our dream house, w
+Doubling Down
+
+* Professional Gambling Business
+* House Hacking (Long-Term rental in basement)
+* 
