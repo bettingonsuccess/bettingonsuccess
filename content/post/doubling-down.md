@@ -25,4 +25,20 @@ Doubling Down is a move in Blackjack where you can double your original bet when
 * Stock (VTSAX anyone? Nah my allocation is quite varied)
 * Family / Travel
 
-On the last point of Family. Mrs BoS and I found out that we are PREGNANT! Now it would only be fitting if we doubled down on the pregnancy so. . .we are pregnant with TWINS! This of course is a joke since we had no control on how many babies we'd have at once. This is truly a blessing. We were able to work hard to save $ and pursue FI before having a family and now within 8 months at age 27 we'll have 2 babies and our family will be complete. 
+On the last point of Family. Mrs BoS and I found out that we are PREGNANT! Now it would only be fitting if we doubled down on the pregnancy so. . .we are pregnant with TWINS! This is truly a blessing. We were able to work hard to save $ and pursue FI before having a family and now within 8 months at age 27 we'll have 2 babies and our family will be complete.
+
+When one first starts out investing or even working they want to do _everything_ and that is a good thing. One can learn a little of everything but quickly trying to do everything gets tiring and one realizes some investments or activities are better than others. I use to say 'Yes' to every opportunity to make money. Now I know that I'm doing just fine and it is okay to say 'No, thanks' and to just enjoy life sometimes.
+
+One of the main parts to FI is helping someone find their WHY of FI (link Podcast ChooseFI episode). I think of it like this.
+
+Name the top 5 things you care about / enjoy doing. Pretend you have all the time in the world.
+
+Mine are 
+
+1. Family (twins on the way)
+2. Home a nice place for children to grow up and comfortable, plenty of things to do
+3. Travel, I want to visit different countries etc
+4. Learning, I love learning new things
+5. Martial Arts, I haven't ever had enough time or money to pursue this. I'm working on training myself in Wing Chun, Kung Fu.
+
+Now these are priorities meaning everything is weighed against these 5 things. If I decide to go out and buy a cup of coffee I need to ask "Is there a cheaper way? Will this make me $X happy? Is this costing me time / opportunity from my Top 5 list?". 
