@@ -43,4 +43,4 @@ Put simply the difference is if the odds are in your favor. This doesn't mean yo
 
 Now I moonlight as a professional gambling. I take cash and I go to the casino and play games that for 99.99% of players is gambling because the house has a mathematical advantage. Now I find a way to exploit the rules of the game to gain an advantage and make money. The term for this is _advantage player_. It is like comparing someone using credit cards to overspend and pay tons of interest versus someone who uses them strategically to gain valuable points for free flights and hotel stays.
 
-As Brand from the \[ChooseFI\](https://www.choosefi.com) podcast would say it is about "thinking a little bit differently".
+As Brad from the \[ChooseFI\](https://www.choosefi.com) podcast would say it is about "thinking a little bit differently".
