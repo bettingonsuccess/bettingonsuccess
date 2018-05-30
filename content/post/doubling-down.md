@@ -23,3 +23,6 @@ Doubling Down is a move in Blackjack where you can double your original bet when
 * Professional Gambling Business
 * House Hacking (Long-Term rental in basement)
 * Stock (VTSAX anyone? Nah my allocation is quite varied)
+* Family / Travel
+
+On the last point of Family. Mrs BoS and I found out that we are PREGNANT! Now it would only be fitting if we doubled down on the pregnancy so. . .we are pregnant with TWINS! This of course is a joke since we had no control on how many babies we'd have at once. This is truly a blessing. We were able to work hard to save $ and pursue FI before having a family and now within 8 months at age 27 we'll have 2 babies and our family will be complete. 
