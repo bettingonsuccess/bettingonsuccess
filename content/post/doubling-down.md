@@ -41,4 +41,4 @@ Mine are
 4. Learning, I love learning new things
 5. Martial Arts, I haven't ever had enough time or money to pursue this. I'm working on training myself in Wing Chun, Kung Fu.
 
-Now these are priorities meaning everything is weighed against these 5 things. If I decide to go out and buy a cup of coffee I need to ask "Is there a cheaper way? Will this make me $X happy? Is this costing me time / opportunity from my Top 5 list?". 
+Now these are priorities meaning everything is weighed against these 5 things. If I decide to go out and buy a cup of coffee I need to ask "Is there a cheaper way? Will this make me $X happy? Is this costing me time / opportunity from my Top 5 list?". Now to many this would sound like a lot of work, constantly 'worrying' about pinching pennies. This isn't farther from the truth. Humans are creatures of habit and quickly one finds what is valuable and what isn't. I don't really budget. The money we save is automatically transferred every month and our spending keeps to an average (some months more for travel but we budget for that). 
