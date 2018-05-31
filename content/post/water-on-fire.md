@@ -10,15 +10,17 @@ title = "WATER on FIRE"
 type = ""
 
 +++
-As we all know in the FIRE community, FI/RE stands for Financial Independence / Retire Early. Well I want to be so bold as to attempt to introduce a new acronym into our FIRE vocabulary, WATER.
+As we all know in the FIRE community, FI/RE stands for Financial Independence / Retire Early. I want to be so bold as to attempt to introduce a new acronym into our FIRE vocabulary, WATER.
 
-So what is W.A.T.E.R?
+Putting WATER on FIRE might sound contradictory but I find water is much softer and stronger. Water can create rivers and rock formations over long time period. While FIRE is much more intense, burning quickly which I think turns a lot of people off.
+
+Without further adue what is W.A.T.E.R?
 
 **W**ealth **A**ctualization **T**ime **E**nergy **R**elationships
 
 ## Wealth
 
-Money. This is the main focus of the FI community as its a powerful tool that we use to buy the rest. We need roughly 25X our annual spending to be financially independent. Now one doesn't need to reach 25X (Full FI) to start working down the list of WATER. 
+Money. This is the main focus of the FI community as its a powerful tool that we use to buy the rest. We need roughly 25X our annual spending to be financially independent. Now one doesn't need to reach 25X (Full FI) to start working down the list of WATER.
 
 ## Actualization
 
