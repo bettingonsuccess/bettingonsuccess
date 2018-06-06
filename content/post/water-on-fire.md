@@ -12,7 +12,7 @@ type = ""
 +++
 As we all know in the FIRE community, FI/RE stands for Financial Independence / Retire Early. I want to be so bold as to attempt to introduce a new acronym into our FIRE vocabulary, WATER.
 
-Putting WATER on FIRE might sound contradictory but I find water is much softer and stronger. Water can create rivers and rock formations over a long time period. While FIRE is much more intense, burning quickly which I think turns a lot of people off.
+Putting WATER on FIRE might sound contradictory but if we separate Water, H20, into individual parts we get Hydrogen and Oxygen which burns quite well; I find the same for the WATER acronym.
 
 So let's get into it. What is W.A.T.E.R?
 
