@@ -3,8 +3,8 @@ categories = ["Concepts", "FIRE", "WATER"]
 comments = true
 date = "2018-05-23T19:30:45-05:00"
 description = "Introducing the concept of WATER"
-draft = true
-image = "/uploads/2018/05/24/drops-of-water-water-nature-liquid-40784.jpeg"
+draft = false
+image = "/uploads/2018/03/09/drops-of-water-water-nature-liquid-40784.jpeg"
 tags = ["FIRE"]
 title = "WATER on FIRE"
 type = ""
@@ -37,3 +37,5 @@ Energy comes from the body. A healthy body has more energy. Health is extremely 
 ## Relationships
 
 Family. Friends. Community. We all have important relationships in our lives. Having the wealth, time and energy allows us to deepen our relationships and reach out to make new ones. One of the most enjoyable parts to the FIRE journey is the vibrant, open and welcoming community behind it.
+
+So that's WATER. A simple acronym I remember to keep me focused on what is most important, and it isn't the money. 
