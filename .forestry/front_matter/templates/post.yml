@@ -1,4 +1,5 @@
 ---
+label: post
 hide_body: false
 is_partial: false
 fields:
@@ -54,3 +55,37 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/post/quit-my-job-and-stayed.md
+- content/post/fire-fafsa-hacking.md
+- content/post/water-fast-day-1.md
+- content/post/going-fast.md
+- content/post/diversification.md
+- content/post/history-of-monte-carlo-simulations.md
+- content/post/why-save-when-its-free.md
+- content/post/cash-flow.md
+- content/post/water-on-fire.md
+- content/post/risk-is-your-best-friend.md
+- content/post/doubling-down.md
+- content/post/risk-of-ruin.md
+- content/post/ce-is-the-new-ev.md
+- content/post/dream-house-to-dream-life.md
+- content/post/picking-the-game.md
+- content/post/a-dash-of-obsession.md
+- content/post/knowing-when-to-fold.md
+- content/post/picking-the-strategy.md
+- content/post/opponent-in-the-mirror.md
+- content/post/finding-value.md
+- content/post/two-leave-three-return.md
+- content/post/expected-value.md
+- content/post/investing-vs-gambling.md
+- content/post/going-all-in.md
+- content/post/dividends.md
+- content/post/rebalancing.md
+- content/post/exit-strategy.md
+- content/post/surrender.md
+- content/post/routine.md
+- content/post/variance.md
+- content/post/building-a-bankroll.md
+- content/post/the-bluff.md
+- content/post/team-play.md
