@@ -1,7 +1,7 @@
 +++
 categories = ["Definitions"]
 comments = true
-date = "2018-05-24T15:24:37-05:00"
+date = "2018-08-30T15:24:37-05:00"
 description = "What is diversification?"
 draft = true
 image = "/uploads/2018/08/30/cone_of_uncertainty.jpg"
