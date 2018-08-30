@@ -1,5 +1,5 @@
 +++
-categories = ["Definitions", "Investing", "Life"]
+categories = []
 comments = true
 date = "2001-08-30T09:27:00-05:00"
 description = "Expected Value, not just for pro gamblers"
