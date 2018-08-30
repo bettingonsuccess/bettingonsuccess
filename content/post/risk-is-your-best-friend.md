@@ -1,7 +1,7 @@
 +++
 categories = ["Risk", "Investing"]
 comments = true
-date = "2018-01-16T15:45:26+00:00"
+date = "2018-07-18T09:45:26-05:00"
 description = "Why Risk is an underestimated and powerful friend to have"
 image = "/uploads/2018/08/30/architecture-black-and-white-challenge-277593.jpg"
 tags = ["Risk", "Investing"]
