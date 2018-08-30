@@ -4,7 +4,7 @@ comments = true
 date = "2018-01-16T15:45:26+00:00"
 description = "Why Risk is an underestimated and powerful friend to have"
 draft = true
-image = "/img/about-bg.jpg"
+image = "/uploads/2018/08/30/architecture-black-and-white-challenge-277593.jpg"
 tags = ["Risk", "Investing"]
 title = "Risk is your Best Friend"
 type = ""
@@ -18,7 +18,7 @@ Risk is the interaction with uncertainty and if we can handle even a little bit 
 
 _Risk_ is an advantage.
 
-My uncle told me to max my 401k, and IRAs and to save as much as possible. He mentioned that he reached FI at a young age. What this did for him was allow him to take huge career risks. He told me he took a risk at his career, if it worked out he'd be hugely rewarded, if not it would likely end his career and he'd find other things to do. No other co-workers would even dream of taking the risks that he did because they had more to lose. So when it comes to taking risks or investing there is always an upside but the focus should be on reducing the downside which is where we find our advantage. I'm sure you're wondering what ever happened, did his risky career move pay off? I think the answer shouldn't matter. He made a smart investment decision and he would repeatedly take those decisions and eventually they would pay off. If you must know, yes, he was hugely rewarded for his effort and continues to work in his very rewarding career decades after reaching financial independence. 
+My uncle told me to max my 401k, and IRAs and to save as much as possible. He mentioned that he reached FI at a young age. What this did for him was allow him to take huge career risks. He told me he took a risk at his career, if it worked out he'd be hugely rewarded, if not it would likely end his career and he'd find other things to do. No other co-workers would even dream of taking the risks that he did because they had more to lose. So when it comes to taking risks or investing there is always an upside but the focus should be on reducing the downside which is where we find our advantage. I'm sure you're wondering what ever happened, did his risky career move pay off? I think the answer shouldn't matter. He made a smart investment decision and he would repeatedly take those decisions and eventually they would pay off. If you must know, yes, he was hugely rewarded for his effort and continues to work in his very rewarding career decades after reaching financial independence.
 
 _Failure is okay._
 
@@ -26,4 +26,4 @@ Have you ever failed a class in school? Received an incomplete or straight up 'F
 
 _The Greatest Risk is not being able to try again_
 
-Imagine you start a business. Imagine that business fails. The business cost you 2 months worth of savings. This is a cheap failure. You can wait another 2 months and try again at the same thing or try something new. Now if you had invested 100% of all your money and taken a second mortgage on your house then failure would have left you in a position that you couldn't try again. 
+Imagine you start a business. Imagine that business fails. The business cost you 2 months worth of savings. This is a cheap failure. You can wait another 2 months and try again at the same thing or try something new. Now if you had invested 100% of all your money and taken a second mortgage on your house then failure would have left you in a position that you couldn't try again. This is related to [Diversification](http://www.bettingonsuccess.com/post/diversification "Diversification"), something we'll discuss later.
