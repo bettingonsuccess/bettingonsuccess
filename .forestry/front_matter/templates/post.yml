@@ -56,11 +56,11 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/diversification.md
 - content/post/quit-my-job-and-stayed.md
 - content/post/fire-fafsa-hacking.md
 - content/post/water-fast-day-1.md
 - content/post/going-fast.md
-- content/post/diversification.md
 - content/post/history-of-monte-carlo-simulations.md
 - content/post/why-save-when-its-free.md
 - content/post/cash-flow.md
