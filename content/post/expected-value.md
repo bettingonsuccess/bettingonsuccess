@@ -11,7 +11,7 @@ type = "What is Expected Value?"
 +++
 # Expected Value
 
-This is another important _Definition_ post where we'll define a concept that we can then apply to investing. I will even give examples of how Expected Value or EV can be applied each and every day.
+This is another important _Definition_ post where we'll define a concept that we can then apply to investing. I will even give examples of how Expected Value (EV) can be applied each and every day.
 
 So I think we all understand what _Value_ is. We value $, time, family, or if you're like me in the mornings sleep. Expectation is the act of looking toward the future and planning on something happening. We expect the sun to rise everyday. Expectation is also a statistical term (don't run! Maths aren't scary).
 
