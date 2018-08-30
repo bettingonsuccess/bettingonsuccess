@@ -2,7 +2,7 @@
 categories = ["life", "family", "fi"]
 comments = true
 date = "2018-06-10T06:39:00-05:00"
-description = "Double "
+description = "Doubling efforts on what is valuable"
 image = "/uploads/2018/06/06/beautiful-casual-cute-206582.jpg"
 tags = ["family", "doubling down", "priorities", "life"]
 title = "Doubling Down"
