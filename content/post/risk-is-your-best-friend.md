@@ -26,3 +26,5 @@ Have you ever failed a class in school? Received an incomplete or straight up 'F
 _The Greatest Risk is not being able to try again_
 
 Imagine you start a business. Imagine that business fails. The business cost you 2 months worth of savings. This is a cheap failure. You can wait another 2 months and try again at the same thing or try something new. Now if you had invested 100% of all your money and taken a second mortgage on your house then failure would have left you in a position that you couldn't try again. This is related to [Diversification](http://www.bettingonsuccess.com/post/diversification "Diversification"), something we'll discuss later.
+
+In closing, _Risk_ is just uncertainty. We deal with uncertainty each and every day. As investors of money, time and energy we need to have plans to handle the uncertainty so that risk can be our best friend.
