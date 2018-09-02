@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.bettingonsuccess.com/post/diversification/</loc>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.bettingonsuccess.com/post/risk-is-your-best-friend/</loc>
     <lastmod>2018-07-18T09:45:26-05:00</lastmod>
   </url>
@@ -43,13 +48,8 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/post/expected-value/</loc>
-    <lastmod>2001-08-30T09:27:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.bettingonsuccess.com/</loc>
-    <lastmod>2018-07-18T09:45:26-05:00</lastmod>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,6 +78,18 @@
   </url>
   
   <url>
+    <loc>http://www.bettingonsuccess.com/tags/definitions/</loc>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bettingonsuccess.com/categories/definitions/</loc>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.bettingonsuccess.com/tags/doubling-down/</loc>
     <lastmod>2018-06-10T06:39:00-05:00</lastmod>
     <priority>0</priority>
@@ -92,18 +104,6 @@
   <url>
     <loc>http://www.bettingonsuccess.com/categories/entrepreneurship/</loc>
     <lastmod>2018-01-30T00:29:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/ev/</loc>
-    <lastmod>2001-08-30T09:27:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/expected-value/</loc>
-    <lastmod>2001-08-30T09:27:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +199,7 @@
   
   <url>
     <loc>http://www.bettingonsuccess.com/post/</loc>
-    <lastmod>2018-07-18T09:45:26-05:00</lastmod>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,6 +236,12 @@
   <url>
     <loc>http://www.bettingonsuccess.com/tags/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bettingonsuccess.com/tags/terms/</loc>
+    <lastmod>2018-09-01T15:24:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
