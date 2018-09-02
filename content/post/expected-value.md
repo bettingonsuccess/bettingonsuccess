@@ -3,7 +3,6 @@ categories = ["investing"]
 comments = true
 date = "2018-08-31T14:22:24-05:00"
 description = "Converting expected value into actual value"
-draft = true
 image = "/uploads/2018/05/23/EV.jpeg"
 tags = ["terms", "investing"]
 title = "Expected Value"
