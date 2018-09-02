@@ -5,7 +5,7 @@ date = "2018-01-16T15:45:33+00:00"
 description = "You say Portfolio Success Rate, I say Risk of Ruin."
 draft = true
 image = "/uploads/2018/05/24/Ruin-1.jpeg"
-tags = ["Vocabulary", "Concepts", "Risk", "Risk of Ruin", "Success Rate"]
+tags = ["Vocabulary", "Concepts", "Risk", "Risk of Ruin", "Success Rate", "Monte Carlo Simulations"]
 title = "Risk of Ruin"
 type = ""
 
