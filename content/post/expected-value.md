@@ -1,13 +1,12 @@
 +++
-categories = []
+categories = ["investing"]
 comments = true
-date = "2001-08-31T09:27:00-05:00"
-description = "Expected Value, not just for pro gamblers"
-draft = true
+date = "2018-08-31T14:22:24-05:00"
+description = "Converting expected value into actual value"
 image = "/uploads/2018/05/23/EV.jpeg"
-tags = ["EV", "Expected Value"]
-title = "Expected Value sdf"
-type = "What is Expected Value?"
+tags = ["terms", "investing"]
+title = "Expected Value"
+type = ""
 
 +++
 # Expected Value
