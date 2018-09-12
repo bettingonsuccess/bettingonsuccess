@@ -27,3 +27,7 @@ Again let's cover the Game
 **Unknowns**: outcome, returns, job, needs
 
 **Risk**: investing returns are unknown and could to down
+
+**Time**: what length of time are we comparing
+
+**Other**: happiness, worse case scenario, tax consequences, tax savings, cash 
