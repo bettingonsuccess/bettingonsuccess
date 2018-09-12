@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/game-theory-on-fire.md
 - content/post/expected-value.md
 - content/post/diversification.md
 - content/post/quit-my-job-and-stayed.md
