@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/Risking-Life-and-Limb.md
 - content/post/game-theory-on-fire.md
 - content/post/expected-value.md
 - content/post/diversification.md
