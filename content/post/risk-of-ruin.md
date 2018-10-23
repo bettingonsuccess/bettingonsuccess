@@ -32,4 +32,10 @@ Income: $100k
 
 Expenses: $90k
 
-They save 10% of their money or $10k. 
+They save 10% of their money or $10k. Now what if they want to save 25% of their income? 
+
+1) Increase their income to $120k
+
+2) Decrease their expenses to $75k
+
+They can increase their income by 20% or reduce their expenses by 17%. If they are the same effort then the expenses is easier. BUT there is a thing called taxes so increase the income by $20k might only increase their net take home pay by $14k. They may need to get a $26k gross increase, working that much harder or longer to achieve the same thing. Obviously this isn't ALWAYS true, few things in life are absolutes. 
