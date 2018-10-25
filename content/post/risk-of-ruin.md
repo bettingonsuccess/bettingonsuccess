@@ -9,11 +9,11 @@ title = "Risk of Ruin"
 type = ""
 
 +++
-This blog is titled _Betting On Success_, so you might think I am focusing on the success, which I am but I also give due importance (but no more) to failure. I focus on success because humans are naturally [overly risk adverse](https://hbr.org/2013/07/hidden-danger-of-being-risk-averse "hidden danger of being risk averse") and tend to weight loses twice as much as wins. Humans are naturally risk adverse.
+This blog is titled _Betting On Success_, so you might think I am focusing on the success, which I am but I also give due importance (but no more mind you) to failure. I focus on success because humans are naturally [overly risk adverse](https://hbr.org/2013/07/hidden-danger-of-being-risk-averse "hidden danger of being risk averse") and tend to weight loses twice as much as wins.
 
 > **"Risk aversion** is a preference for a sure outcome over a gamble with higher or equal expected value." -Wikipedia
 
-My wife and I personally save a large portion of our income. We save as much as we can, and we always have even if it was only $20 / month. We do this in order to reduce our chance of losing what we have. If your car breaks down and you have enough cash to by a different car for cash, even if it is 20 years old, then you don't have to worry about losing your job just because you don't have a car to get there. This cash buffer allows me to pursue better job opportunities that have a positive [Expected Value](http://bettingonsuccess.com/post/expected-value/ "Expected Value") while also being able to survive if the worst happens, I've reduce my Risk of Ruin. 
+My wife and I personally save a large portion of our income. We save as much as we can, and we always have even if it was only $20 / month. We do this in order to reduce our chance of losing what we have. If your car breaks down and you have enough cash to by a different car for cash, even if it is 20 years old, then you don't have to worry about losing your job just because you don't have a car to get there. This cash buffer allows me to pursue better job opportunities that have a positive [Expected Value](http://bettingonsuccess.com/post/expected-value/ "Expected Value") while also being able to survive if the worst happens, I've reduce my Risk of Ruin.
 
 > **"Risk of Ruin** is a concept in gambling, insurance, and finance relating to the likelihood of losing all one's investment capital" -Wikipedia
 
@@ -31,12 +31,11 @@ Income: $100k
 
 Expenses: $90k
 
-They save 10% of their money or $10k. Now what if they want to save 25% of their income? 
+They save 10% of their money or $10k. Now what if they want to save 25% of their income?
 
-1) Increase their income to $120k
+1. Increase their income to $120k
+2. Decrease their expenses to $75k
 
-2) Decrease their expenses to $75k
-
-They can increase their income by 20% or reduce their expenses by 17%. If they are the same effort then the expenses is easier. BUT there is a thing called taxes so increase the income by $20k might only increase their net take home pay by $14k. They may need to get a $26k gross increase, working that much harder or longer to achieve the same thing. Obviously this isn't ALWAYS true, few things in life are absolutes. 
+They can increase their income by 20% or reduce their expenses by 17%. If they are the same effort then the expenses is easier. BUT there is a thing called taxes so increase the income by $20k might only increase their net take home pay by $14k. They may need to get a $26k gross increase, working that much harder or longer to achieve the same thing. Obviously this isn't ALWAYS true, few things in life are absolutes.
 
 [https://en.wikipedia.org/wiki/Risk_of_ruin](https://en.wikipedia.org/wiki/Risk_of_ruin "https://en.wikipedia.org/wiki/Risk_of_ruin")
