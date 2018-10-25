@@ -39,3 +39,10 @@ They save 10% of their money or $10k. Now what if they want to save 25% of their
 They can increase their income by 20% or reduce their expenses by 17%. If they are the same effort then the expenses is easier. BUT there is a thing called taxes so increase the income by $20k might only increase their net take home pay by $14k. They may need to get a $26k gross increase, working that much harder or longer to achieve the same thing. Obviously this isn't ALWAYS true, few things in life are absolutes. It can take little effort to find cheaper car insurance, meal prep or buy older vehicles which cost effort up front but can payoff more than overtime or picking up another job.
 
 [https://en.wikipedia.org/wiki/Risk_of_ruin](https://en.wikipedia.org/wiki/Risk_of_ruin "https://en.wikipedia.org/wiki/Risk_of_ruin")
+
+So what is RUIN for you? If you failed what does that look like? Here are a few life situations.
+
+* You lose your job
+* The stock market crashes 50%
+* You fail a class
+* 
