@@ -3,7 +3,6 @@ categories = ["Concepts"]
 comments = true
 date = "2001-09-22T00:00:00-05:00"
 description = "You say Portfolio Success Rate, I say Risk of Ruin."
-draft = true
 image = "/uploads/2018/05/24/Ruin-1.jpeg"
 tags = ["Vocabulary", "Concepts", "Risk", "Risk of Ruin", "Success Rate", "Monte Carlo Simulations"]
 title = "Risk of Ruin"
