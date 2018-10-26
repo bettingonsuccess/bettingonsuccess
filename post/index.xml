@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT License</copyright>
-    <lastBuildDate>Fri, 31 Aug 2018 14:22:24 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 21:45:26 -0500</lastBuildDate>
     
 	<atom:link href="http://www.bettingonsuccess.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Risk of Ruin</title>
+      <link>http://www.bettingonsuccess.com/post/risk-of-ruin/</link>
+      <pubDate>Thu, 13 Sep 2018 21:45:26 -0500</pubDate>
+      
+      <guid>http://www.bettingonsuccess.com/post/risk-of-ruin/</guid>
+      <description>This blog is titled Betting On Success, so you might think I am focusing on the success, which I am but I also give due importance (but no more mind you) to failure. I focus on success because humans are naturally overly risk adverse and tend to weight loses twice as much as wins.
+ &amp;ldquo;Risk aversion is a preference for a sure outcome over a gamble with higher or equal expected value.</description>
+    </item>
     
     <item>
       <title>Expected Value</title>
@@ -91,16 +101,6 @@ Investing vs Gambling. What is the difference? Say you&amp;rsquo;re sitting at t
       <guid>http://www.bettingonsuccess.com/post/going-all-in/</guid>
       <description>Today I took my first step towards achieving my dreams, I quit my job! This has been a plan of mine for a long time and I have multiple contingency plans in place. Pursuing my side hustle has been a dream of mine for over 4 years now. I am now finally making it a reality! It is both exciting as well as frightening.
 I am able to leave a high paying stable IT job because I have been saving a large percentage of my income regularly.</description>
-    </item>
-    
-    <item>
-      <title>Risk of Ruin</title>
-      <link>http://www.bettingonsuccess.com/post/risk-of-ruin/</link>
-      <pubDate>Sat, 22 Sep 2001 00:00:00 -0500</pubDate>
-      
-      <guid>http://www.bettingonsuccess.com/post/risk-of-ruin/</guid>
-      <description>This blog is titled Betting On Success, so you might think I am focusing on the success, which I am but I also give due importance (but no more mind you) to failure. I focus on success because humans are naturally overly risk adverse and tend to weight loses twice as much as wins.
- &amp;ldquo;Risk aversion is a preference for a sure outcome over a gamble with higher or equal expected value.</description>
     </item>
     
   </channel>
