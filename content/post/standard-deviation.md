@@ -62,8 +62,10 @@ See after 1,000 flips we'll only be within by 4.74 heads (or tails) 99.7% of the
 
 The thing is we need to emotionally handle the ride until we get there. As a professional gambler I see 10's of 1,000's of dollars come and go within minutes. My worst run I lost $20,000 in about 30 minutes. Within the next 15 minutes I won back all my money and $8,000 profit. If I had gotten emotional and quit I would have had 0% chance of having that winning streak that brought me my profit. In life, and blackjack, if you can't take the great with the horrible, you won't get the good that is the result of the two. I am investing to get the long run average. I ignore losing streaks as well as lucky runs as well. I'm chasing value and the value is somewhere between the lucky and unlucky times.
 
-> "In life, and blackjack, if you can't take the great with the horrible, you won't get the good that is the result of the two."
+> "In life, if you can't take the great with the horrible, you won't get the good that is the result of the two."
 
-Standard Deviation is also what is traditionally describe as _RISK_ with stock investments. If you're investing in index funds then the chance of losing all your money is virtually 0. The main risk then is being able to handle the swings. If you're investing for the long run then ignore it and press on, easier said than done, especially in blackjack. 
+Standard Deviation is also what is traditionally describe as _RISK_ with stock investments. If you're investing in index funds then the chance of losing all your money is virtually 0. The main risk then is being able to handle the swings. If you're investing for the long run then ignore it and press on, easier said than done but there isn't anything you need to do or worry about aside from a diversified allocation and then adjust it as you approach retirement.
 
-That risk is MUCH harder and more complex to handle if you actually need to live off of it. This is why the common advice of having a split between stocks and bonds. Bonds are low risk, low return which reduce volatility or the standard deviation of your total portfolio. 
+Once trying to live off that money, that risk is MUCH harder and more complex to handle if you actually need to live off of it. This is why the common advice of having a split between stocks and bonds. Bonds are low risk, low return which reduce volatility or the standard deviation of your total portfolio. 
+
+I am fortunate enough to have
