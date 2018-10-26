@@ -59,13 +59,13 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/career/</loc>
+    <loc>http://www.bettingonsuccess.com/categories/career/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/career/</loc>
+    <loc>http://www.bettingonsuccess.com/tags/career/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -77,13 +77,13 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/concepts/</loc>
+    <loc>http://www.bettingonsuccess.com/categories/concepts/</loc>
     <lastmod>2018-09-13T21:45:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/concepts/</loc>
+    <loc>http://www.bettingonsuccess.com/tags/concepts/</loc>
     <lastmod>2018-09-13T21:45:26-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -107,13 +107,19 @@
   </url>
   
   <url>
+    <loc>http://www.bettingonsuccess.com/categories/family/</loc>
+    <lastmod>2018-06-10T06:39:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.bettingonsuccess.com/tags/family/</loc>
     <lastmod>2018-06-10T06:39:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/family/</loc>
+    <loc>http://www.bettingonsuccess.com/categories/fi/</loc>
     <lastmod>2018-06-10T06:39:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -125,20 +131,8 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/fi/</loc>
-    <lastmod>2018-06-10T06:39:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.bettingonsuccess.com/tags/financial-independence/</loc>
     <lastmod>2018-03-16T01:58:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bettingonsuccess.com/tags/fire/</loc>
-    <lastmod>2018-05-23T19:30:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,13 +143,19 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/fu-money/</loc>
-    <lastmod>2018-02-05T17:05:00-06:00</lastmod>
+    <loc>http://www.bettingonsuccess.com/tags/fire/</loc>
+    <lastmod>2018-05-23T19:30:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.bettingonsuccess.com/categories/fu-money/</loc>
+    <lastmod>2018-02-05T17:05:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bettingonsuccess.com/tags/fu-money/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -167,25 +167,25 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/investing/</loc>
-    <lastmod>2018-08-31T14:22:24-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.bettingonsuccess.com/categories/investing/</loc>
     <lastmod>2018-08-31T14:22:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/life/</loc>
-    <lastmod>2018-06-10T06:39:00-05:00</lastmod>
+    <loc>http://www.bettingonsuccess.com/tags/investing/</loc>
+    <lastmod>2018-08-31T14:22:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.bettingonsuccess.com/categories/life/</loc>
+    <lastmod>2018-06-10T06:39:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bettingonsuccess.com/tags/life/</loc>
     <lastmod>2018-06-10T06:39:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -215,14 +215,14 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/risk/</loc>
-    <lastmod>2018-09-13T21:45:26-05:00</lastmod>
+    <loc>http://www.bettingonsuccess.com/categories/risk/</loc>
+    <lastmod>2018-07-18T09:45:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/risk/</loc>
-    <lastmod>2018-07-18T09:45:26-05:00</lastmod>
+    <loc>http://www.bettingonsuccess.com/tags/risk/</loc>
+    <lastmod>2018-09-13T21:45:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,13 +233,13 @@
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/tags/side-hustle/</loc>
+    <loc>http://www.bettingonsuccess.com/categories/side-hustle/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bettingonsuccess.com/categories/side-hustle/</loc>
+    <loc>http://www.bettingonsuccess.com/tags/side-hustle/</loc>
     <lastmod>2018-02-05T17:05:00-06:00</lastmod>
     <priority>0</priority>
   </url>
