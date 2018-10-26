@@ -1,11 +1,12 @@
 +++
-categories = ["Development", "golang"]
+categories = ["Definition"]
 comments = true
 date = "2018-10-25T21:47:33-05:00"
-description = ""
+description = "Defining variation"
 draft = true
 image = "/img/about-bg.jpg"
-tags = ["go", "golang", "templates", "themes", "development"]
+tags = ["Definition "]
 title = "Standard Deviation"
+type = ""
 
 +++
