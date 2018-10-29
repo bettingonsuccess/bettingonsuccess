@@ -69,3 +69,7 @@ Standard Deviation is also what is traditionally describe as _RISK_ with stock i
 Once trying to live off that money, that risk is MUCH harder and more complex to handle if you actually need to live off of it. This is why the common advice of having a split between stocks and bonds. Bonds are low risk, low return which reduce volatility or the standard deviation of your total portfolio.
 
 I am fortunate enough to have
+
+EV is like walking on railroad tracks in a straight line. This is your value that is steadily going up over time. Now imagine that you have a 1,000 ft long leash and a VERY hyper and curious dog on the end of it. Imagine the dog isn't able to move you from the tracks. As you're walking a long YOU are the EV and are steadily heading in the right direction but the dog is randomly going more NORTH and SOUTH than where you are at. You are EV and the dog is Variance or luck. The thing we miss is that somewhere between the good luck and the bad luck, lies the value.
+
+> "Somewhere, between the good luck and the back luck, lies the value that we're seeking."
