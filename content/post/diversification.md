@@ -28,7 +28,7 @@ What if we rolled that die 60 times, 600 times, 6 million times? We would see a 
 
 ![](/uploads/2018/08/30/cone_of_uncertainty.jpg)The more we repeatedly invest the closer we get to the average ROI or what professional gamblers like myself call Expected Value.
 
-I'm on a bit of a tangent since diversification means to do different things, in this case multiple separate investments, again to reduce that cone of uncertainty, often at the cost of E.V. The most common example is stocks and bonds. They are separate and not directly correlated, in fact they are thought to be negatively correlated (stocks go up, bonds go down). Using bonds you'll have less variation but you'll also reduce your average return of your portfolio. In the investing world the correlation is called _Beta._ A Beta of 1.0 means they go up and down exactly the same.
+I'm on a bit of a tangent since diversification means to do different things, in this case multiple separate investments, again to reduce that cone of uncertainty, often at the cost of E.V. The most common example is stocks and bonds. They are separate and not directly correlated, in fact they are thought to be negatively correlated (stocks go up, bonds go down). Using bonds you'll have less variation but you'll also reduce your average return of your portfolio. In the investing world the correlation is called _Beta._ A Beta of 1.0 means they go up and down exactly the same. -1.0 would mean they do the exact opposite of one another.
 
 > The more we repeatedly invest the closer we get to the average ROI...Expected Value
 
