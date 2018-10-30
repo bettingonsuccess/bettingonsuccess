@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/hire-me.md
 - content/host-a-free-blog.md
 - content/post/standard-deviation.md
 - content/post/Risking-Life-and-Limb.md
