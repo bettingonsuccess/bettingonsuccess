@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/host-a-free-blog.md
 - content/post/standard-deviation.md
 - content/post/Risking-Life-and-Limb.md
 - content/post/game-theory-on-fire.md
